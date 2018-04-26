@@ -1,60 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="836f8018-90c6-4b89-84b6-3f13f1de075c" name="Default" comment="创建工程">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/artifacts/CellArt_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__com_alibaba_fastjson_1_2_41.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_apache_logging_log4j_log4j_web_2_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/CellArt.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/basic/BackConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/controller/UrlController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/dao/UserEntityMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/entity/RequestMsg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/entity/ResultData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/entity/UserEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/java/com/project/typeHandler/JSONObjectTypeHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/recources/generatorConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/recources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/recources/mapper/UserEntityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/recources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/recources/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/webapp/WEB-INF/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/webapp/WEB-INF/pages/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CellArt/src/main/webapp/WEB-INF/web.xml" />
+    <list default="true" id="836f8018-90c6-4b89-84b6-3f13f1de075c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CellArt/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../CellArt/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CellArt/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CellArt/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../CellArt/out/" />
     <ignored path="$PROJECT_DIR$/../CellArt/target/" />
@@ -93,8 +42,8 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CellArt/src/main/java/com/project/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="475">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1158,12 +1107,20 @@
       <workItem from="1524639174826" duration="159000" />
       <workItem from="1524639395011" duration="5152000" />
       <workItem from="1524648196614" duration="462000" />
-      <workItem from="1524703199493" duration="411000" />
+      <workItem from="1524703199493" duration="648000" />
     </task>
+    <task id="LOCAL-00001" summary="创建工程">
+      <created>1524703620529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524703620529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9605000" />
+    <option name="totallyTimeSpent" value="9842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1532,8 +1489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CellArt/src/main/java/com/project/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="475">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

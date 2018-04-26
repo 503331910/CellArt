@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../CellArt" vcs="Git" />
+    <mapping directory="D:\CellArt\CellArt" vcs="Git" />
   </component>
 </project>
