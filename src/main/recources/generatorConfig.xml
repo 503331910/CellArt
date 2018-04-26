@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+<generatorConfiguration>
+
+    <classPathEntry
+            location="C:\Users\lenovo\.m2\repository\mysql\mysql-connector-java\5.1.44\mysql-connector-java-5.1.44.jar"/>
+    <context id="context1">
+        <commentGenerator>
+            <!--是否去除自动生成的注释 true：是： false:否  -->
+            <property name="suppressAllComments" value="true"/>
+        </commentGenerator>
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/mydatabases?useUnicode=true&amp;characterEncoding=utf8&amp;/useSSL=false"
+                        userId="root" password="root"/>
+
+        <javaModelGenerator targetPackage="com.project.entity"
+                            targetProject="src/main/java"/>
+        <!--生成的映射文件报名和位置 -->
+        <sqlMapGenerator targetPackage="mapper"
+                         targetProject="src/main/resources"/>
+        <!--生成DAO的包名和位置 -->
+        <javaClientGenerator targetPackage="com.project.dao"
+                             targetProject="src/main/java" type="XMLMAPPER"/>
+        <table schema="ssm1" tableName="type_info" domainObjectName="TypeEntity"
+               enableCountByExample="false" enableUpdateByExample="false"
+               enableDeleteByExample="false" enableSelectByExample="false"
+               selectByExampleQueryId="false">
+            <columnOverride column="type_id" property="typeId"/>
+            <columnOverride column="type_name" property="typeName"/>
+            <columnOverride column="type_desc" property="typeDesc"/>
+        </table>
+    </context>
+</generatorConfiguration>
