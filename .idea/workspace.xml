@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="836f8018-90c6-4b89-84b6-3f13f1de075c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CellArt/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../CellArt/.idea/vcs.xml" />
+    <list default="true" id="836f8018-90c6-4b89-84b6-3f13f1de075c" name="Default" comment="创建工程">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CellArt/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CellArt/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../CellArt/out/" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CellArt/src/main/java/com/project/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="513">
+              <caret line="27" column="61" lean-forward="true" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -566,7 +565,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CellArt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CellArt - 副本" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -1107,7 +1106,7 @@
       <workItem from="1524639174826" duration="159000" />
       <workItem from="1524639395011" duration="5152000" />
       <workItem from="1524648196614" duration="462000" />
-      <workItem from="1524703199493" duration="648000" />
+      <workItem from="1524703199493" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="创建工程">
       <created>1524703620529</created>
@@ -1116,14 +1115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524703620529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="创建工程">
+      <created>1524703855555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524703855555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9842000" />
+    <option name="totallyTimeSpent" value="10012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1489,8 +1495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CellArt/src/main/java/com/project/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="513">
+          <caret line="27" column="61" lean-forward="true" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
